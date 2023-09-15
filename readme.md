@@ -1,5 +1,6 @@
 # Research Data
-Binance Holdings Ltd.
+**Binance Holdings Ltd.**
+***
 
 ## Overview and Origin
 * Binance
@@ -38,4 +39,6 @@ Binance Holdings Ltd.
 
 
 This is the view of Binance Holdings LTD. of exhisting data bases and landscapes on the internet.
-(Google.com, Binance.com, Crunchbase.com, banklesstimes.com, Stackshare.com, Wikipedia.org) were all used for gaining information in this research.
+[Google.com](https://google.com), [Binance.com](Binance.com), [Crunchbase.com](crunchbase.com), [Banklesstimes.com](banklesstimes.com), [Stackshare.com](stackshare.com), [Wikipedia.org](wikipedia.org) were all used for gaining information in this research.
+
+![Binance](https://public.bnbstatic.com/static/images/common/ogImage.jpg)
